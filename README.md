@@ -1,39 +1,42 @@
-# 👋 Hi, I'm Chittransh Sharma
+<h1 align="center">Hi 👋, I'm Chittransh Sharma</h1>
+<h3 align="center">A passionate Computer Science student from India</h3>
 
-🎓 I'm a first-year Computer Science student at **BML Munjal University**, New Delhi.  
-💻 Passionate about coding, tech, and real-world problem solving.  
-🚀 Exploring web development, Python, and open-source contributions.  
-🧑‍💻 Currently freelancing and interning to grow my skills and experience.  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/chittransh-sharma)
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=First+Year+CS+Student+at+BML+Munjal+University;Freelance+Web+Developer;Tech+Enthusiast+%7C+Coder+%7C+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Chittransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&theme=github_dark&hide_rank=false)
-
----
-
-## 🧠 Learning Goals
-
-- Mastering **React.js** & **Data Structures**
-- Contributing to **Open Source**
-- Building my personal **portfolio site** and client projects
+- 🎓 I'm a **First Year Computer Science student** at **BML Munjal University**
+- 💻 I do **freelancing and internships**, working on real-world projects and coding gigs
+- 🌱 Currently learning: **React.js**, **Python**, and **Data Structures**
+- 🛠️ Interests: **Web Development**, **AI & ML**, **Problem Solving**
+- 📫 You can reach me at **[LinkedIn](https://linkedin.com/in/chittransh-sharma)**
 
 ---
 
-## 🤝 Let’s Connect
+### 🧰 Languages & Tools I Use:
 
-- 📩 [LinkedIn](https://linkedin.com/in/chittransh-sharma)
-- 🌐 Portfolio coming soon…
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittranshsharma&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/chittransh-sharma)
+- 🧑‍💻 Portfolio coming soon...
