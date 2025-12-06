@@ -1,42 +1,46 @@
-<h1 align="center">Hi 👋, I'm Chittransh Sharma</h1>
-<h3 align="center">CS Student | Freelance Developer | Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CS+Student+at+BML+Munjal+University;Freelance+Developer+%7C+Learning+React+%26+Python;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
+<h1 align="center">Chittransh Sharma</h1>
+<h3 align="center">Computer Science Student • IoT & Embedded Systems • AI/ML • Software Engineering</h3>
 
 ---
 
-- 🎓 I'm a **First Year Computer Science student** at **BML Munjal University**
-- 💻 I do **freelancing and internships**, working on real-world projects and coding gigs
-- 🌱 Currently learning: **React.js**, **Python**, and **Data Structures**
-- 🛠️ Interests: **Web Development**, **AI & ML**, **Problem Solving**
-- 📫 You can reach me at **[LinkedIn](https://linkedin.com/in/chittransh-sharma)**
+## Profile
+I am a Computer Science Engineering student focused on building systems at the intersection of **IoT, embedded hardware, AI/ML, and software engineering**.  
+My interests include system design, intelligent automation, real-time data workflows, and applied machine learning.  
+I enjoy working on end-to-end engineering problems — from low-level logic to higher-level software and ML components.
 
 ---
 
-### 🧰 Languages & Tools I Use:
+## Technical Areas
+- **IoT & Embedded Systems:** microcontrollers, sensor integration, ESP32, hardware-software interfacing, real-time systems  
+- **AI/ML & Computer Vision:** Python, ML workflows, CV pipelines, cloud-assisted inference  
+- **Software Engineering:** C++, Python, Linux, APIs, Git, system-level programming  
+- **Additional Tools:** Flutter, HTML/CSS, cloud platforms (Azure/AWS basics)
 
+---
+
+## Selected Projects
+### **AURA — IoT Wellness Monitoring System**
+A privacy-first embedded system for environmental and safety monitoring, using sensor fusion, real-time alerts, and MQTT-based communication.
+
+### **LYNX — AI + IoT Navigation Prototype**
+An intelligent maritime navigation prototype integrating sensors, GPS data, and ML-driven decision logic for safety-critical guidance.
+
+### **Azure Computer Vision Utilities**
+A set of cloud-assisted vision tools leveraging Azure Cognitive Services for inference and analysis.
+
+(Additional project repositories will be added progressively.)
+
+---
+
+## GitHub Analytics
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&hide_title=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittranshsharma&layout=compact&theme=transparent" height="160" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## Contact
+- **LinkedIn:** https://linkedin.com/in/chittransh-sharma  
+- **Email:** *chittranshsharma150@gmail.com*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittranshsharma&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/chittransh-sharma)
-- 🧑‍💻 Portfolio coming soon...
