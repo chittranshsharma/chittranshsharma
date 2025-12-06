@@ -32,10 +32,19 @@ A set of cloud-assisted vision tools leveraging Azure Cognitive Services for inf
 
 ---
 
-## GitHub Analytics
+## GitHub Snapshot
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&hide_title=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittranshsharma&layout=compact&theme=transparent" height="160" />
+  <!-- compact badge row -->
+  <img src="https://img.shields.io/github/followers/chittranshsharma?label=Followers&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/repo-size/chittranshsharma/chittranshsharma?label=Profile+Repo+Size&style=flat-square" alt="Repo size" />
+  <img src="https://img.shields.io/github/stars/chittranshsharma?label=Total+Stars&style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/chittranshsharma/chittranshsharma?label=Last+Update&style=flat-square" alt="Last commit" />
+</p>
+
+<p>
+  <!-- contribution calendar (full-width, clean) -->
+  <img src="https://ghchart.rshah.org/chittranshsharma" alt="Contribution chart" />
 </p>
 
 ---
