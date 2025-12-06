@@ -32,6 +32,8 @@ A set of cloud-assisted vision tools leveraging Azure Cognitive Services for inf
 
 ---
 
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Chittransh_Sharma_Resume.pdf)
+
 ## GitHub Snapshot
 
 <p align="left">
