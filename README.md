@@ -18,6 +18,15 @@ I enjoy working on end-to-end engineering problems — from low-level logic to h
 
 ---
 
+## 🏅 Open Source Programs
+
+- **Elite Coders Winter of Code (ECWoC) 2026**
+  - Role: Contributor
+  - Organization: Elite Coders
+  - Focus: Open-source collaboration & learning
+
+---
+
 ## Selected Projects
 ### **AURA — IoT Wellness Monitoring System**
 A privacy-first embedded system for environmental and safety monitoring, using sensor fusion, real-time alerts, and MQTT-based communication.
