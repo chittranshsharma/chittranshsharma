@@ -1,254 +1,338 @@
-<div align="center">
+<h1 align="center">Chittransh Sharma</h1>
 
-Chittransh Sharma
+<p align="center">
+  <strong>AI/ML · Agentic Systems · Backend Engineering · Full-Stack · Automation</strong>
+</p>
 
-AI/ML · Agentic Systems · Backend · Full-Stack · Automation
+<p align="center">
+  <a href="https://chitt.co.in">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="./chittransh_resume.pdf">Resume</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:chittranshsharma150@gmail.com">Email</a>  
+</p>
 
-I build intelligent software systems, data pipelines, real-time applications, and automation infrastructure.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,fastapi&perline=6" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,aws,git,github&perline=6" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,tailwind,vercel,azure,arduino&perline=5" />
+</p>
 
-<a href="https://chitt.co.in"><strong>Portfolio ↗</strong></a>
-  ·  
-<a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a>
-  ·  
-<a href="./chittransh_resume.pdf">Resume</a>
-  ·  
-<a href="mailto:chittranshsharma150@gmail.com">Email</a>
+---
 
-<br><br>
+## About
 
-<img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,fastapi,nodejs,postgres,neo4j,docker,aws,git&perline=12" />
+I build **intelligent software systems** across AI/ML, backend engineering, automation, and full-stack development.
 
-</div>
+My work spans **agentic AI, LLM orchestration, data pipelines, real-time systems, quantitative ML, geospatial computing, and intelligent automation**.
 
-About
+I care about the systems underneath the interface: how data moves, how state is managed, how failures are handled, and how individual components become reliable software.
 
-I build across the stack, with a focus on the systems underneath the interface.
+### Core Areas
 
-My work spans agentic AI, LLM orchestration, backend services, automation, data engineering, real-time systems, quantitative ML, geospatial computing, and edge systems.
+- **AI / ML:** LLM pipelines, agentic workflows, RAG, LangGraph, LangChain, scikit-learn, PyTorch
+- **Backend:** Python, FastAPI, Node.js, AsyncIO, REST APIs, WebSockets
+- **Data:** PostgreSQL, Supabase, Neo4j, SQLite, MongoDB, ETL, feature engineering
+- **Automation:** Playwright, HTTPX, n8n, browser automation, API orchestration
+- **Full-Stack:** React, Next.js, TypeScript, Tailwind CSS
+- **Systems:** Docker, Linux, AWS, Azure, real-time processing
+- **Geospatial / Edge:** NetworkX, OSMnx, MapLibre, GeoJSON, ESP32, MQTT
 
-AI / ML            Agentic workflows · LLM pipelines · RAG · scikit-learn · PyTorch
-Backend            Python · FastAPI · Node.js · AsyncIO · REST · WebSockets
-Data               PostgreSQL · Supabase · Neo4j · SQLite · ETL · Feature Engineering
-Automation         Playwright · HTTPX · n8n · Browser Automation · API Workflows
-Full-Stack         React · Next.js · TypeScript · Tailwind
-Systems            Docker · Linux · AWS · Azure · Real-Time Processing
-Edge / Geospatial  ESP32 · MQTT · NetworkX · OSMnx · MapLibre · GeoJSON
+---
 
-Experience
+# Experience
 
-AI & Data Automation Intern · Brightrays
+### AI & Data Automation Intern · Brightrays
+**June 2026 — August 2026**
 
-June 2026 — August 2026
+- Engineered Python pipelines using **Playwright, HTTPX, asynchronous processing, and local LLM inference** for faculty discovery, classification, extraction, and enrichment across university websites.
+- Built multi-stage workflows covering **crawling, validation, deduplication, enrichment, and structured Excel/JSON generation**.
+- Implemented browser automation, request orchestration, structured logging, retry/recovery logic, and failure handling for long-running research workloads.
+- Integrated LLM-assisted classification and extraction into deterministic data-processing pipelines.
 
-Built automation infrastructure for large-scale academic intelligence and research workflows.
+### AI & Data Automation Intern · BML Munjal University
+**May 2026 — Present**
 
-Engineered Python pipelines using Playwright, HTTPX, asynchronous processing, and local LLM inference for faculty discovery, classification, extraction, and enrichment across university websites.
+- Engineered automated research pipelines using **Python and Playwright** to collect, structure, and analyze academic information from global university websites.
+- Conducted large-scale web research and information synthesis across research domains, transforming unstructured information into structured knowledge repositories.
+- Designed **AI-assisted classification, validation, and summarization workflows** to generate structured reports and datasets for institutional analysis.
+---
 
-Built multi-stage workflows for crawling, validation, deduplication, enrichment, and structured Excel/JSON generation.
+# Selected Work
 
-Implemented browser automation, request orchestration, structured logging, retry/recovery logic, and failure handling for long-running research workloads.
+## ARGOS
 
-Integrated LLM-assisted classification and extraction into deterministic data-processing pipelines.
+**Competitive Intelligence & Forecasting Engine**
 
-Selected Work
+A forecasting-oriented intelligence system designed around signal ingestion, attribution, hypothesis generation, forecast tracking, and outcome resolution.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+SIGNALS
+   ↓
+INGESTION
+   ↓
+DEDUPLICATION
+   ↓
+ATTRIBUTION
+   ↓
+HYPOTHESES
+   ↓
+FORECAST REGISTRY
+   ↓
+OUTCOME RESOLUTION
+   ↓
+CALIBRATION
+````
 
-ARGOS
+**Stack:** `Python` `FastAPI` `LangGraph` `PostgreSQL`
 
-Competitive Intelligence & Forecasting
+---
 
-A forecasting-oriented intelligence system built around signal ingestion, attribution, hypothesis generation, forecast tracking, and outcome calibration.
+## MNEMOX
 
-Python FastAPI LangGraph PostgreSQL
-
-</td>
-<td width="50%" valign="top">
-
-MNEMOX
-
-Autonomous Deep Research
+**Autonomous Deep-Research Agent**
 
 A stateful research system combining autonomous web research, agent orchestration, persistent knowledge, and real-time streaming.
 
-Next.js FastAPI LangGraph Neo4j
+```text
+USER
+  ↓
+NEXT.JS
+  ↓
+FASTAPI
+  ↓
+LANGGRAPH
+  ├── SEARCH
+  ├── RESEARCH
+  └── SYNTHESIS
+  ↓
+PERSISTENT KNOWLEDGE
+  ↓
+STREAMED RESPONSE
+```
+
+**Stack:** `Next.js` `FastAPI` `LangGraph` `Neo4j` `Supabase` `Groq` `Gemini`
+
+---
+
+## PORTAI
+
+**Multi-Agent Financial Intelligence System**
+
+A layered financial research architecture using parallel specialist and investor-persona agents for market analysis, risk aggregation, and portfolio intelligence.
+
+```text
+DATA INGESTION
+      ↓
+SPECIALIST AGENTS
+      ↓
+INVESTOR PERSONAS
+      ↓
+RISK AGGREGATION
+      ↓
+PORTFOLIO ALLOCATION
+      ↓
+OUTPUT STATE
+```
+
+**Stack:** `Next.js` `FastAPI` `LangGraph` `Supabase`
+
+---
+
+## SCOUT
+
+**AI Company Intelligence Engine**
+
+Transforms a company name or URL into a structured intelligence dossier through crawling, search, synthesis, validation, and automated reporting.
+
+```text
+COMPANY URL
+    ↓
+SITE RESOLUTION
+    ↓
+SMART CRAWLING
+    ↓
+PARALLEL SEARCH
+    ↓
+CONTENT EXTRACTION
+    ↓
+LLM SYNTHESIS
+    ↓
+VALIDATION
+    ↓
+STRUCTURED DOSSIER
+```
+
+**Stack:** `Next.js` `TypeScript` `OpenRouter` `Groq` `Serper`
+
+---
+
+## QUANTSTREAM-NSE
+
+**Real-Time Market Microstructure & ML Signal Engine**
 
-</td>
-</tr>
+A real-time NSE screening and signal engine combining live market feeds, Level-2 order-book analysis, feature engineering, Random Forest classification, trade simulation, and portfolio risk analytics.
 
-<tr>
-<td width="50%" valign="top">
+```text
+BROKER FEED
+    ↓
+TICK / L2 DATA
+    ↓
+LIQUIDITY SCREEN
+    ↓
+ROLLING AGGREGATES
+    ↓
+FEATURE ENGINEERING
+    ↓
+RANDOM FOREST
+    ↓
+SIGNAL + CONFIDENCE
+    ↓
+TRADE SIMULATION
+    ↓
+RISK ANALYTICS
+```
 
-PORTAI
+**Stack:** `Python` `WebSockets` `scikit-learn` `SQLite` `Streamlit`
 
-Multi-Agent Financial Intelligence
+**Technical Highlights**
 
-A layered financial research pipeline using parallel specialist and investor-persona agents for market analysis and portfolio intelligence.
+* Wilder's **SMMA(20) / SMMA(120)**
+* Rolling **ETQ** aggregates
+* Top-5 order-book depth imbalance
+* Random Forest signal classification
+* 5-fold stratified cross-validation
+* Dynamic signal explanations
+* Cold-start heuristic fallback
+* Sharpe, Sortino, Max Drawdown, Profit Factor
+* Historical bootstrapping and trade simulation
+* Thread-safe live execution
+* Mock broker for offline development
+* PyTest coverage
+* PyInstaller packaging
 
-Next.js FastAPI LangGraph Supabase
+---
 
-</td>
-<td width="50%" valign="top">
+## ROUTE RESILIENCE
 
-SCOUT
+**Geospatial Disaster Simulation & Routing**
 
-AI Company Intelligence
+A geospatial intelligence system combining satellite road extraction, graph construction, disaster simulation, and dynamic rerouting.
 
-Transforms a company URL into a structured intelligence dossier using crawling, parallel search, extraction, synthesis, and validation.
+```text
+SATELLITE / OSM DATA
+        ↓
+ROAD EXTRACTION
+        ↓
+GRAPH CONSTRUCTION
+        ↓
+GRAPH ANALYTICS
+        ↓
+DISASTER SIMULATION
+        ↓
+REROUTING
+        ↓
+MAP VISUALIZATION
+```
 
-Python Playwright HTTPX LLMs
+**Stack:** `PyTorch` `SegFormer` `NetworkX` `OSMnx` `FastAPI` `MapLibre`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## LYNX
 
-QUANTSTREAM-NSE
+**Edge Telemetry & Geospatial Navigation**
 
-Real-Time Market Microstructure
+A real-time edge-to-application system combining embedded telemetry, mobile interfaces, geospatial data, and routing logic.
 
-Live NSE screening and ML signal engine combining WebSocket feeds, Level-2 depth, feature engineering, Random Forest classification, trade simulation, and risk analytics.
+**Stack:** `ESP32` `C++` `Flutter` `Dart` `MQTT` `GeoJSON`
 
-Python WebSockets scikit-learn Streamlit
+---
 
-</td>
-<td width="50%" valign="top">
+# Technical Stack
 
-ROUTE RESILIENCE
+### Languages
 
-Geospatial Disaster Simulation
+`Python` `C++` `TypeScript` `JavaScript` `Dart` `SQL`
 
-Satellite road extraction, graph construction, disaster simulation, and dynamic rerouting.
+### AI / ML
 
-PyTorch SegFormer NetworkX OSMnx MapLibre
+`LangGraph` `LangChain` `LLMs` `RAG` `scikit-learn` `PyTorch` `SegFormer`
 
-</td>
-</tr>
-</table>
+### Backend
 
-Systems I Build
+`FastAPI` `Flask` `Node.js` `Express` `REST APIs` `WebSockets` `AsyncIO`
 
-Agentic Systems
+### Frontend
 
-Stateful LangGraph orchestration
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-Multi-agent execution
+### Data
 
-LLM-assisted research
+`PostgreSQL` `Supabase` `Neo4j` `SQLite` `MongoDB`
 
-Retrieval and structured reasoning
+### Automation
 
-Persistent knowledge and model routing
+`Playwright` `HTTPX` `n8n` `Browser Automation` `API Integrations`
 
-Data & Automation
+### Infrastructure
 
-High-volume crawling
+`Docker` `Linux` `AWS` `Azure` `Vercel` `Railway`
 
-Browser automation
+### Edge / Geospatial
 
-Entity extraction
+`ESP32` `MQTT` `NetworkX` `OSMnx` `OpenStreetMap` `MapLibre` `GeoJSON`
 
-Validation and deduplication
+### Tooling
 
-LLM-assisted structured data pipelines
+`Git` `GitHub` `PyTest` `PyInstaller`
 
-Real-Time & Quant
+---
 
-WebSocket market feeds
+# Certifications & Achievements
 
-Level-2 order-book processing
+* **Neo4j Certified Professional** — 2025
+* **Microsoft Azure** — Computer Vision & REST API
+* **AWS** — Virtual Private Cloud (VPC)
+* **ISRO** — Remote Sensing
+* **ICT360 Design Championship** — Runner-Up
 
-Rolling time-series features
+---
 
-ML signal classification
+# Open Source
 
-Backtesting and portfolio risk analytics
+### Elite Coders Winter of Code · 2026
 
-Technical Stack
-
-Area
-
-Technologies
-
-Languages
-
-Python · C++ · TypeScript · JavaScript · Dart
-
-AI / ML
-
-LangGraph · LangChain · LLMs · scikit-learn · PyTorch · SegFormer
-
-Backend
-
-FastAPI · Flask · Node.js · Express · REST · WebSockets
-
-Frontend
-
-React · Next.js · TypeScript · Tailwind CSS
-
-Data
-
-PostgreSQL · Supabase · Neo4j · SQLite · MongoDB
-
-Automation
-
-Playwright · HTTPX · n8n · AsyncIO
-
-Infrastructure
-
-Docker · Linux · AWS · Azure · Vercel
-
-IoT / Edge
-
-ESP32 · ESP-IDF · Arduino · MQTT · GPIO · UART · I2C · SPI
-
-Geospatial
-
-NetworkX · OSMnx · OpenStreetMap · MapLibre · Leaflet · GeoJSON
-
-Tooling
-
-Git · GitHub · PyTest · PyInstaller
-
-Certifications & Achievements
-
-Neo4j Certified Professional · 2025
-
-Microsoft Azure · Computer Vision & REST API
-
-AWS · Virtual Private Cloud (VPC)
-
-ISRO · Remote Sensing
-
-ICT360 Design Championship · Runner-Up
-
-Elite Coders Winter of Code 2026 · Contributor
-
-Open Source
-
-Elite Coders Winter of Code · 2026
-
-Contributor
+**Contributor**
 
 Open-source collaboration, software development, and community contribution.
 
-My Portfolio
+---
 
-chitt.co.in
+# Portfolio
 
-The portfolio itself is an engineering project.
+### [chitt.co.in](https://chitt.co.in)
 
-SYSTEMS → technical architecture and execution deep-dives
-ASK / PORTFOLIO OS → deterministic portfolio search and navigation
-PROJECTS → selected engineering work
+My portfolio is itself an engineering project.
 
-<div align="center">
+* **SYSTEMS** — interactive architecture and technical deep-dives
+* **ASK / PORTFOLIO OS** — deterministic portfolio search and navigation
+* **PROJECTS** — selected engineering work
 
-Build systems. Ship them. Then build the next one.
+<p align="center">
+  <a href="https://chitt.co.in"><strong>Explore the portfolio ↗</strong></a>
+</p>
 
-chitt.co.in ↗
+---
 
-</div>
+<p align="center">
+  <strong>Build systems. Ship them. Then build the next one.</strong>
+</p>
+
+<p align="center">
+  <a href="https://chitt.co.in">chitt.co.in</a>
+</p>
