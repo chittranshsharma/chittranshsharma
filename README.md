@@ -1,82 +1,40 @@
-<h1 align="center">Chittransh Sharma</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML • Agentic Systems • Backend Engineering • Full-Stack • Automation • Real-Time Systems
-</h3>
+Chittransh Sharma
 
-<p align="center">
-  <a href="https://chitt.co.in">Portfolio</a> •
-  <a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a> •
-  <a href="mailto:chittranshsharma150@gmail.com">Email</a> •
-  <a href="./chittransh_resume.pdf">Resume</a>
-</p>
+AI/ML · Agentic Systems · Backend · Full-Stack · Automation
 
-whoami
+I build intelligent software systems, data pipelines, real-time applications, and automation infrastructure.
 
-I build intelligent software systems across AI/ML, backend engineering, automation, and full-stack development.
+<a href="https://chitt.co.in"><strong>Portfolio ↗</strong></a>
+  ·  
+<a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a>
+  ·  
+<a href="./chittransh_resume.pdf">Resume</a>
+  ·  
+<a href="mailto:chittranshsharma150@gmail.com">Email</a>
 
-My work ranges from multi-agent research systems and competitive intelligence platforms to real-time market microstructure engines, geospatial systems, and high-volume data automation.
+<br><br>
 
-I like building systems where the interesting part is not the interface, but everything happening underneath it.
+<img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,fastapi,nodejs,postgres,neo4j,docker,aws,git&perline=12" />
 
-AI / AGENTS          → LangGraph · LangChain · LLM pipelines · RAG
-BACKEND              → Python · FastAPI · Node.js · APIs · Async systems
-AUTOMATION           → Playwright · n8n · Web automation · Data pipelines
-ML / DATA            → scikit-learn · PyTorch · Feature Engineering
-REAL-TIME            → WebSockets · Streaming · Event-driven systems
-DATABASES            → PostgreSQL · Supabase · Neo4j · SQLite · MongoDB
-FULL-STACK           → React · Next.js · TypeScript · Tailwind
-SYSTEMS              → Docker · Linux · AWS · Azure · IoT / Edge
+</div>
 
-what i build
+About
 
-AI & Agentic Systems
+I build across the stack, with a focus on the systems underneath the interface.
 
-I build systems around LLM orchestration, autonomous workflows, structured reasoning, retrieval, persistent state, and multi-agent execution.
+My work spans agentic AI, LLM orchestration, backend services, automation, data engineering, real-time systems, quantitative ML, geospatial computing, and edge systems.
 
-Stateful multi-agent architectures with LangGraph
+AI / ML            Agentic workflows · LLM pipelines · RAG · scikit-learn · PyTorch
+Backend            Python · FastAPI · Node.js · AsyncIO · REST · WebSockets
+Data               PostgreSQL · Supabase · Neo4j · SQLite · ETL · Feature Engineering
+Automation         Playwright · HTTPX · n8n · Browser Automation · API Workflows
+Full-Stack         React · Next.js · TypeScript · Tailwind
+Systems            Docker · Linux · AWS · Azure · Real-Time Processing
+Edge / Geospatial  ESP32 · MQTT · NetworkX · OSMnx · MapLibre · GeoJSON
 
-Autonomous research and intelligence pipelines
-
-LLM-assisted classification and extraction
-
-Retrieval and structured knowledge workflows
-
-Model routing and fallback strategies
-
-Persistent agent state and knowledge graphs
-
-Real-time streaming AI interfaces
-
-Backend & Data Systems
-
-I work heavily on the infrastructure underneath intelligent applications:
-
-Async Python services
-
-FastAPI APIs
-
-Concurrent data pipelines
-
-WebSocket-based systems
-
-Browser and HTTP automation
-
-Data validation and normalization
-
-Deduplication and entity resolution
-
-Structured data processing
-
-SQLite / PostgreSQL / Supabase / Neo4j
-
-Real-Time & Quantitative Systems
-
-I also build deterministic systems where latency, state, data quality, and execution flow matter.
-
-That includes real-time market data processing, Level-2 order-book analysis, rolling time-series features, ML classification, trade simulation, and portfolio risk analytics.
-
-experience
+Experience
 
 AI & Data Automation Intern · Brightrays
 
@@ -84,198 +42,140 @@ June 2026 — August 2026
 
 Built automation infrastructure for large-scale academic intelligence and research workflows.
 
-Engineered Python-based research pipelines using Playwright, HTTPX, asynchronous processing, and local LLM inference to discover, classify, enrich, and structure academic intelligence across university websites.
+Engineered Python pipelines using Playwright, HTTPX, asynchronous processing, and local LLM inference for faculty discovery, classification, extraction, and enrichment across university websites.
 
-Built multi-stage workflows covering web acquisition, entity extraction, validation, deduplication, enrichment, and structured Excel/JSON generation.
+Built multi-stage workflows for crawling, validation, deduplication, enrichment, and structured Excel/JSON generation.
 
 Implemented browser automation, request orchestration, structured logging, retry/recovery logic, and failure handling for long-running research workloads.
 
-Integrated LLM-assisted classification and extraction into deterministic processing pipelines, converting unstructured web content into validated machine-readable datasets.
+Integrated LLM-assisted classification and extraction into deterministic data-processing pipelines.
 
-selected systems
+Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ARGOS
 
-Competitive Intelligence & Forecasting Engine
+Competitive Intelligence & Forecasting
 
-A forecasting-oriented intelligence system designed to move beyond summarizing what happened toward tracking what is likely to happen next.
+A forecasting-oriented intelligence system built around signal ingestion, attribution, hypothesis generation, forecast tracking, and outcome calibration.
 
-SIGNALS
-   ↓
-INGESTION
-   ↓
-DEDUPLICATION
-   ↓
-ATTRIBUTION
-   ↓
-HYPOTHESES
-   ↓
-FORECAST REGISTRY
-   ↓
-OUTCOME RESOLUTION
-   ↓
-CALIBRATION
+Python FastAPI LangGraph PostgreSQL
 
-Stack: Python · FastAPI · LangGraph · PostgreSQL · LLMs · Data Pipelines
+</td>
+<td width="50%" valign="top">
 
 MNEMOX
 
-Autonomous Deep-Research Agent
+Autonomous Deep Research
 
-A stateful research system combining autonomous web research, multi-agent orchestration, persistent knowledge, and real-time streaming.
+A stateful research system combining autonomous web research, agent orchestration, persistent knowledge, and real-time streaming.
 
-USER
- ↓
-NEXT.JS
- ↓
-FASTAPI
- ↓
-LANGGRAPH
- ├── SEARCH
- ├── RESEARCH
- └── SYNTHESIS
- ↓
-PERSISTENT KNOWLEDGE
- ↓
-STREAMED RESPONSE
+Next.js FastAPI LangGraph Neo4j
 
-Stack: Next.js · FastAPI · LangGraph · LangChain · Neo4j · Supabase · Groq · Gemini
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 PORTAI
 
-Multi-Agent Financial Intelligence System
+Multi-Agent Financial Intelligence
 
-A multi-layer financial research architecture using parallel specialist and investor-persona agents to analyse markets, aggregate risk, and construct portfolio-level outputs.
+A layered financial research pipeline using parallel specialist and investor-persona agents for market analysis and portfolio intelligence.
 
-DATA
- ↓
-SPECIALIST ANALYSTS
- ↓
-INVESTOR PERSONAS
- ↓
-RISK AGGREGATION
- ↓
-PORTFOLIO ALLOCATION
- ↓
-OUTPUT
+Next.js FastAPI LangGraph Supabase
 
-Stack: Next.js · FastAPI · LangGraph · Supabase · LLMs · Financial APIs
+</td>
+<td width="50%" valign="top">
 
 SCOUT
 
-AI-Powered Company Intelligence Engine
+AI Company Intelligence
 
-An automated company research system that transforms a company URL into a structured intelligence dossier.
+Transforms a company URL into a structured intelligence dossier using crawling, parallel search, extraction, synthesis, and validation.
 
-COMPANY URL
- ↓
-SITE RESOLUTION
- ↓
-SMART CRAWLING
- ↓
-PARALLEL SEARCH
- ↓
-CONTENT EXTRACTION
- ↓
-LLM SYNTHESIS
- ↓
-CONFIDENCE / VALIDATION
- ↓
-STRUCTURED DOSSIER
+Python Playwright HTTPX LLMs
 
-Stack: Python · Playwright · HTTPX · LLMs · Search APIs · FastAPI
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 QUANTSTREAM-NSE
 
-Real-Time Market Microstructure & ML Signal Engine
+Real-Time Market Microstructure
 
-A standalone real-time NSE screening and signal engine combining live market data, Level-2 order-book analysis, technical indicators, machine learning, trade simulation, and portfolio risk analytics.
+Live NSE screening and ML signal engine combining WebSocket feeds, Level-2 depth, feature engineering, Random Forest classification, trade simulation, and risk analytics.
 
-BROKER FEED
-    ↓
-TICK / L2 DATA
-    ↓
-LIQUIDITY SCREEN
-    ↓
-ROLLING AGGREGATES
-    ↓
-FEATURE ENGINEERING
-    ↓
-RANDOM FOREST
-    ↓
-SIGNAL + CONFIDENCE
-    ↓
-TRADE SIMULATION
-    ↓
-RISK ANALYTICS
+Python WebSockets scikit-learn Streamlit
 
-Stack: Python · WebSockets · scikit-learn · SQLite · Streamlit · Fyers · Angel One
-
-Highlights:
-
-Wilder's SMMA(20) / SMMA(120)
-
-Rolling ETQ aggregates
-
-Top-5 order-book depth imbalance
-
-Random Forest signal classification
-
-5-fold stratified cross-validation
-
-Dynamic signal explanations
-
-Cold-start heuristic fallback
-
-Sharpe / Sortino / Max Drawdown / Profit Factor
-
-Historical bootstrapping and trade simulation
-
-Thread-safe live execution
-
-Mock broker for offline development
-
-PyTest test suite and PyInstaller packaging
+</td>
+<td width="50%" valign="top">
 
 ROUTE RESILIENCE
 
-Geospatial Disaster Simulation & Routing
+Geospatial Disaster Simulation
 
-A geospatial intelligence system combining satellite-derived road extraction, graph analytics, disaster simulation, and interactive routing.
+Satellite road extraction, graph construction, disaster simulation, and dynamic rerouting.
 
-SATELLITE / OSM DATA
-        ↓
-ROAD EXTRACTION
-        ↓
-GRAPH CONSTRUCTION
-        ↓
-GRAPH ANALYTICS
-        ↓
-DISASTER SIMULATION
-        ↓
-REROUTING
-        ↓
-MAP VISUALIZATION
+PyTorch SegFormer NetworkX OSMnx MapLibre
 
-Stack: Python · PyTorch · SegFormer · NetworkX · OSMnx · FastAPI · MapLibre
+</td>
+</tr>
+</table>
 
-LYNX
+Systems I Build
 
-Edge Telemetry & Geospatial Navigation
+Agentic Systems
 
-A real-time edge-to-application system combining embedded telemetry, mobile interfaces, geospatial data, and routing logic.
+Stateful LangGraph orchestration
 
-Stack: ESP32 · C++ · Dart · Flutter · MQTT · GeoJSON · GIS
+Multi-agent execution
 
-technical stack
+LLM-assisted research
 
-Domain
+Retrieval and structured reasoning
+
+Persistent knowledge and model routing
+
+Data & Automation
+
+High-volume crawling
+
+Browser automation
+
+Entity extraction
+
+Validation and deduplication
+
+LLM-assisted structured data pipelines
+
+Real-Time & Quant
+
+WebSocket market feeds
+
+Level-2 order-book processing
+
+Rolling time-series features
+
+ML signal classification
+
+Backtesting and portfolio risk analytics
+
+Technical Stack
+
+Area
 
 Technologies
 
 Languages
 
-Python · C++ · TypeScript · JavaScript · Dart · HTML/CSS
+Python · C++ · TypeScript · JavaScript · Dart
 
 AI / ML
 
@@ -283,27 +183,23 @@ LangGraph · LangChain · LLMs · scikit-learn · PyTorch · SegFormer
 
 Backend
 
-FastAPI · Flask · Node.js · Express · REST APIs · WebSockets
+FastAPI · Flask · Node.js · Express · REST · WebSockets
 
 Frontend
 
 React · Next.js · TypeScript · Tailwind CSS
 
-Data Engineering
-
-Playwright · HTTPX · AsyncIO · ETL · Data Validation · Feature Engineering
-
-Databases
+Data
 
 PostgreSQL · Supabase · Neo4j · SQLite · MongoDB
 
-Cloud / Infrastructure
-
-Docker · Linux · AWS · Azure · Vercel · Railway
-
 Automation
 
-n8n · Browser Automation · API Integrations · Workflow Orchestration
+Playwright · HTTPX · n8n · AsyncIO
+
+Infrastructure
+
+Docker · Linux · AWS · Azure · Vercel
 
 IoT / Edge
 
@@ -315,60 +211,23 @@ NetworkX · OSMnx · OpenStreetMap · MapLibre · Leaflet · GeoJSON
 
 Tooling
 
-Git · GitHub · PyTest · Figma · PyInstaller
+Git · GitHub · PyTest · PyInstaller
 
-engineering interests
+Certifications & Achievements
 
-AGENTIC SYSTEMS
-        │
-        ├── autonomous workflows
-        ├── stateful orchestration
-        ├── retrieval
-        └── multi-agent systems
+Neo4j Certified Professional · 2025
 
-DATA SYSTEMS
-        │
-        ├── crawling
-        ├── extraction
-        ├── validation
-        ├── deduplication
-        └── enrichment
+Microsoft Azure · Computer Vision & REST API
 
-REAL-TIME SYSTEMS
-        │
-        ├── WebSockets
-        ├── streaming
-        ├── event-driven processing
-        └── live analytics
+AWS · Virtual Private Cloud (VPC)
 
-INTELLIGENT APPLICATIONS
-        │
-        ├── AI interfaces
-        ├── decision systems
-        ├── quantitative systems
-        └── automation
+ISRO · Remote Sensing
 
-outside the terminal
+ICT360 Design Championship · Runner-Up
 
-I make beats in FL Studio.
+Elite Coders Winter of Code 2026 · Contributor
 
-Most of my time goes into building systems. The rest occasionally goes into drums, 808s, synths, and trying to make something that hits harder than the last version.
-
- OFF THE CLOCK →
-
-certifications
-
-Neo4j Certified Professional — 2025
-
-Microsoft Azure — Computer Vision & REST API
-
-AWS — Virtual Private Cloud (VPC)
-
-ISRO — Remote Sensing
-
-ICT360 Design Championship — Runner-Up
-
-open source
+Open Source
 
 Elite Coders Winter of Code · 2026
 
@@ -376,55 +235,20 @@ Contributor
 
 Open-source collaboration, software development, and community contribution.
 
-the portfolio
+My Portfolio
 
 chitt.co.in
 
-My portfolio is itself an engineering project.
+The portfolio itself is an engineering project.
 
-It includes:
+SYSTEMS → technical architecture and execution deep-dives
+ASK / PORTFOLIO OS → deterministic portfolio search and navigation
+PROJECTS → selected engineering work
 
-Interactive project exploration
+<div align="center">
 
-SYSTEMS — architecture and technical deep-dives
+Build systems. Ship them. Then build the next one.
 
-ASK / Portfolio OS — deterministic portfolio intelligence and navigation
+chitt.co.in ↗
 
-OFF THE CLOCK — interactive music showcase
-
-Interactive technical visualizations
-
-Project-specific system flows
-
-→ Explore the portfolio
-
-currently building
-
-AI / ML
-████████████████████
-
-AGENTIC SYSTEMS
-███████████████████░
-
-BACKEND
-██████████████████░░
-
-FULL-STACK
-█████████████████░░░
-
-AUTOMATION
-███████████████████░
-
-REAL-TIME SYSTEMS
-████████████████░░░░
-
-QUANT / DATA
-███████████████░░░░░
-
-<p align="center">
-
-Build systems. Break assumptions. Ship again.
-
-<a href="https://chitt.co.in">chitt.co.in</a>
-
-</p>
+</div>
