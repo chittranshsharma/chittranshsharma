@@ -9,7 +9,7 @@
   &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="./chittransh_resume.pdf">Resume</a>
+  <a href="./chittranshresume.pdf">Resume</a>
   &nbsp;•&nbsp;
   <a href="mailto:chittranshsharma150@gmail.com">Email</a>  
 </p>
