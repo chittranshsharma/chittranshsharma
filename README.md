@@ -1,338 +1,208 @@
-<h1 align="center">Chittransh Sharma</h1>
+<div align="center">
+
+# CHITTRANSH SHARMA
+### Systems Architect • Quantitative Intelligence • Autonomous Agent Systems
 
 <p align="center">
-  <strong>AI/ML · Agentic Systems · Backend Engineering · Full-Stack · Automation</strong>
+  <a href="https://chitt.co.in"><img src="https://img.shields.io/badge/Portfolio-chitt.co.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/chittranshsharma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/chittranshsharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chittranshsharma@gmail.com"><img src="https://img.shields.io/badge/Direct%20Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://chitt.co.in">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/chittransh-sharma">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="./chittranshresume.pdf">Resume</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:chittranshsharma150@gmail.com">Email</a>  
+  <em>Architecting carrier-grade defense cores, quantitative market microstructure engines, and multi-agent intelligence state machines.</em>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,fastapi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,nextjs,fastapi&perline=6" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,aws,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,aws,azure&perline=6" />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,tailwind,vercel,azure,arduino&perline=5" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,graphql,redis,git,github&perline=6" />
 </p>
 
----
-
-## About
-
-I build **intelligent software systems** across AI/ML, backend engineering, automation, and full-stack development.
-
-My work spans **agentic AI, LLM orchestration, data pipelines, real-time systems, quantitative ML, geospatial computing, and intelligent automation**.
-
-I care about the systems underneath the interface: how data moves, how state is managed, how failures are handled, and how individual components become reliable software.
-
-### Core Areas
-
-- **AI / ML:** LLM pipelines, agentic workflows, RAG, LangGraph, LangChain, scikit-learn, PyTorch
-- **Backend:** Python, FastAPI, Node.js, AsyncIO, REST APIs, WebSockets
-- **Data:** PostgreSQL, Supabase, Neo4j, SQLite, MongoDB, ETL, feature engineering
-- **Automation:** Playwright, HTTPX, n8n, browser automation, API orchestration
-- **Full-Stack:** React, Next.js, TypeScript, Tailwind CSS
-- **Systems:** Docker, Linux, AWS, Azure, real-time processing
-- **Geospatial / Edge:** NetworkX, OSMnx, MapLibre, GeoJSON, ESP32, MQTT
+</div>
 
 ---
 
-# Experience
+## ⚡ Executive Engineering Dossier
 
-### AI & Data Automation Intern · Brightrays
-**June 2026 — August 2026**
+I engineer **high-reliability autonomous systems and mathematical infrastructure** across machine learning, telecom defense, and quantitative finance. 
 
-- Engineered Python pipelines using **Playwright, HTTPX, asynchronous processing, and local LLM inference** for faculty discovery, classification, extraction, and enrichment across university websites.
-- Built multi-stage workflows covering **crawling, validation, deduplication, enrichment, and structured Excel/JSON generation**.
-- Implemented browser automation, request orchestration, structured logging, retry/recovery logic, and failure handling for long-running research workloads.
-- Integrated LLM-assisted classification and extraction into deterministic data-processing pipelines.
+My work does not focus on superficial UI wrappers. I care about **deterministic state machines, low-latency signal aggregation, statistical verification, and systems that refuse to degrade under adversarial conditions.**
 
-### AI & Data Automation Intern · BML Munjal University
-**May 2026 — Present**
-
-- Engineered automated research pipelines using **Python and Playwright** to collect, structure, and analyze academic information from global university websites.
-- Conducted large-scale web research and information synthesis across research domains, transforming unstructured information into structured knowledge repositories.
-- Designed **AI-assisted classification, validation, and summarization workflows** to generate structured reports and datasets for institutional analysis.
----
-
-# Selected Work
-
-## ARGOS
-
-**Competitive Intelligence & Forecasting Engine**
-
-A forecasting-oriented intelligence system designed around signal ingestion, attribution, hypothesis generation, forecast tracking, and outcome resolution.
-
-```text
-SIGNALS
-   ↓
-INGESTION
-   ↓
-DEDUPLICATION
-   ↓
-ATTRIBUTION
-   ↓
-HYPOTHESES
-   ↓
-FORECAST REGISTRY
-   ↓
-OUTCOME RESOLUTION
-   ↓
-CALIBRATION
-````
-
-**Stack:** `Python` `FastAPI` `LangGraph` `PostgreSQL`
+### Key Domains
+* **Neural Audio & Telecom Defense:** Carrier-grade voice clone detection, acoustic graph attention (XLS-R + AASIST), and local edge LLM reasoning.
+* **Quantitative & Financial Microstructure:** Level-2 order book depth analysis, Wilder's SMMA mathematical crossovers, and multi-agent portfolio risk analytics (VaR).
+* **Autonomous Multi-Agent Networks:** Closed-loop strategic forecasting engines, persistent knowledge graphs (Neo4j), and deterministic LangGraph state machines.
+* **Distributed Backends & Data Pipelines:** Asynchronous ETL (Playwright, HTTPX), WebSockets, event-driven microservices, and high-craft Next.js interfaces.
 
 ---
 
-## MNEMOX
+## 🏆 The Flagship Trilogy (Top 3 Goated Systems)
 
-**Autonomous Deep-Research Agent**
+### 1. [SONARA™](https://github.com/chittranshsharma/Sonara) — Autonomous Voice Defense & Telephony Interception Core
+> **Carrier-grade defense neutralizing generative voice cloning, zero-shot neural TTS, and social engineering attacks across live cellular networks.**
 
-A stateful research system combining autonomous web research, agent orchestration, persistent knowledge, and real-time streaming.
+[![In-The-Wild EER](https://img.shields.io/badge/In--The--Wild%20EER-15.44%25-0066CC?style=flat-square&logo=target&logoColor=white)](https://github.com/chittranshsharma/Sonara)
+[![Serving Latency](https://img.shields.io/badge/P95%20Latency-46.2%20ms-10B981?style=flat-square&logo=speedtest&logoColor=white)](https://github.com/chittranshsharma/Sonara)
+[![Neural Backbone](https://img.shields.io/badge/Backbone-XLS--R%20300M%20%2B%20AASIST-8B5CF6?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/chittranshsharma/Sonara)
+[![Local Edge LLM](https://img.shields.io/badge/Edge%20LLM-Qwen2.5%207B%20(Air--Gapped)-F55036?style=flat-square&logo=ollama&logoColor=white)](https://github.com/chittranshsharma/Sonara)
+[![Test Suite](https://img.shields.io/badge/Verification-524%2F524%20Passed-brightgreen?style=flat-square&logo=pytest&logoColor=white)](https://github.com/chittranshsharma/Sonara)
+[![Statutory Admissibility](https://img.shields.io/badge/Evidence%20Act-Sec%2065B%20IEA%20%2F%20Sec%2063%20BSA-D97706?style=flat-square&logo=shield&logoColor=white)](https://github.com/chittranshsharma/Sonara)
 
-```text
-USER
-  ↓
-NEXT.JS
-  ↓
-FASTAPI
-  ↓
-LANGGRAPH
-  ├── SEARCH
-  ├── RESEARCH
-  └── SYNTHESIS
-  ↓
-PERSISTENT KNOWLEDGE
-  ↓
-STREAMED RESPONSE
+```
+             LIVE TELECOM STREAM (G.711 / AMR-NB / OPUS)
+                                │
+          ┌─────────────────────┴─────────────────────┐
+          ▼                                           ▼
+ [ACOUSTIC RESIDUALS]                        [PHONETIC LIVENESS]
+  XLS-R 300M + AASIST GNN                      Dynamic Challenge
+  Spectral Graph Attention                     Syntactic Entropy
+          │                                           │
+          └─────────────────────┬─────────────────────┘
+                                ▼
+                   [ORTHOGONAL FUSION MATRIX]
+                     Confidence Arbitration
+                                │
+                                ▼
+                   [AIR-GAPPED LOCAL EDGE LLM]
+                       Qwen2.5 7B (Ollama)
+                  Intent & Coercion Extraction
+                                │
+                                ▼
+                     [EVIDENTIARY VERDICT]
+                Sec 65B IEA Tamper-Proof Record
 ```
 
-**Stack:** `Next.js` `FastAPI` `LangGraph` `Neo4j` `Supabase` `Groq` `Gemini`
+* **Telecom Codec Invariance:** Solves the "telephony codec trap" where downsampled 8kHz carrier compression tricks standard biometric models.
+* **Tri-Signal Orthogonal Defense:** Fuses raw acoustic artifacts, active acoustic liveness, and semantic coercion analysis into an unforgeable decision envelope.
+* **Sovereign & Real-Time:** P95 response time under 46.2ms; air-gapped on-premise execution with zero external data leakage.
 
 ---
 
-## PORTAI
+### 2. [PORTAI](https://github.com/chittranshsharma/port-ai) — Institutional Financial Intelligence & Stratton Engine
+> **Multi-agent LangGraph platform simulating institutional investor personas, Level-2 order-book microstructure, and quantitative risk monitoring.**
 
-**Multi-Agent Financial Intelligence System**
+[![Stack](https://img.shields.io/badge/Stack-FastAPI_%7C_Next.js_%7C_LangGraph-blueviolet?style=flat-square)](https://github.com/chittranshsharma/port-ai)
+[![AI Engine](https://img.shields.io/badge/AI-Multi--Agent_%7C_15%2B_Personas-blue?style=flat-square)](https://github.com/chittranshsharma/port-ai)
+[![Markets](https://img.shields.io/badge/Coverage-NSE%20%7C%20BSE%20%7C%20US%20Equities-emerald?style=flat-square)](https://github.com/chittranshsharma/port-ai)
 
-A layered financial research architecture using parallel specialist and investor-persona agents for market analysis, risk aggregation, and portfolio intelligence.
-
-```text
-DATA INGESTION
-      ↓
-SPECIALIST AGENTS
-      ↓
-INVESTOR PERSONAS
-      ↓
-RISK AGGREGATION
-      ↓
-PORTFOLIO ALLOCATION
-      ↓
-OUTPUT STATE
+```
+                    REAL-TIME MARKET INGESTION
+                    (NSE / BSE / US Tick Feeds)
+                                │
+    ┌───────────────────────────┼───────────────────────────┐
+    ▼                           ▼                           ▼
+[FUNDAMENTAL]               [QUANT & L2]               [SENTIMENT & MACRO]
+Valuation Metrics          Order-Book Depth             News Attribution
+Moat Evaluation            SMMA Imbalance Matrix        Cross-Asset Yields
+    │                           │                           │
+    └───────────────────────────┼───────────────────────────┘
+                                ▼
+                [15+ AGENT INVESTOR COMMITTEE]
+           (Buffett · Jhunjhunwala · Pabrai · Quants)
+                                │
+                                ▼
+                   [PORTFOLIO RISK ARBITER]
+                Monte Carlo · Parametric VaR
+                                │
+                                ▼
+                INSTITUTIONAL ALLOCATION PACKET
 ```
 
-**Stack:** `Next.js` `FastAPI` `LangGraph` `Supabase`
+* **6-Layer Agent Orchestration:** Layered LangGraph state graph executing synchronous and asynchronous analysis across parallel market dimensions.
+* **Institutional Risk Engine:** Parametric & historical Value-at-Risk (VaR), Sharpe/Sortino ratios, and stress-tested Monte Carlo portfolio simulations.
+* **Dual Market Engine:** Unified real-time pricing and sentiment correlation across Indian (NSE/BSE) and US exchanges.
 
 ---
 
-## SCOUT
+### 3. [VANTA](https://github.com/chittranshsharma/vanta) — Creative Clearance & Automated Decision Engine
+> **Enterprise decision engine transforming unstructured ad scripts and media assets into legally cleared, evidence-backed campaign packets.**
 
-**AI Company Intelligence Engine**
+[![Architecture](https://img.shields.io/badge/Architecture-Supabase_%2B_FastAPI_%2B_React-3B82F6?style=flat-square)](https://github.com/chittranshsharma/vanta)
+[![Engine](https://img.shields.io/badge/Decision%20Engine-Deterministic%20Policy%20Matrix-10B981?style=flat-square)](https://github.com/chittranshsharma/vanta)
+[![Interface](https://img.shields.io/badge/Design%20System-Dark%20Luminescent%20Glass-6366F1?style=flat-square)](https://github.com/chittranshsharma/vanta)
 
-Transforms a company name or URL into a structured intelligence dossier through crawling, search, synthesis, validation, and automated reporting.
-
-```text
-COMPANY URL
-    ↓
-SITE RESOLUTION
-    ↓
-SMART CRAWLING
-    ↓
-PARALLEL SEARCH
-    ↓
-CONTENT EXTRACTION
-    ↓
-LLM SYNTHESIS
-    ↓
-VALIDATION
-    ↓
-STRUCTURED DOSSIER
+```
+             RAW CREATIVE SCRIPTS & ASSET HOOKS
+                             │
+                             ▼
+              [MULTI-MODAL RISK EXTRACTION]
+            Regulatory · Trademark · Substantiation
+                             │
+                             ▼
+             [DETERMINISTIC COMPLIANCE GATES]
+            Policy Rules · Claim Verification Engine
+                             │
+                             ▼
+                 [DECISION PACKET GENERATOR]
+               Signed Audit Trail & Risk Score
 ```
 
-**Stack:** `Next.js` `TypeScript` `OpenRouter` `Groq` `Serper`
+* **Automated Clearance Pipelines:** Enforces rigorous multi-category brand safety, IP compliance, and claim substantiation.
+* **Tamper-Proof Audit Trails:** Generates cryptographic decision packets with traceable evidence chains for enterprise regulatory compliance.
+* **High-Craft Design System:** Custom luminescent dark-mode interface built for speed, keyboard-driven navigation, and zero-latency clearance workflows.
 
 ---
 
-## QUANTSTREAM-NSE
+## 🔬 Core Engineering Arsenal & Secondary Innovations
 
-**Real-Time Market Microstructure & ML Signal Engine**
+| System | Architecture | Primary Capability |
+| :--- | :--- | :--- |
+| **[ARGOS](https://github.com/chittranshsharma/argos)** | `Python` `FastAPI` `LangGraph` `PostgreSQL` | **Autonomous Strategic Forecasting:** State-machine-driven competitive intelligence platform that resolves corporate strategic bets against reality. |
+| **[QUANTSTREAM-NSE](https://github.com/chittranshsharma/QuantStream-NSE-Enterprise-Grade-Stock-Screener)** | `Python` `WebSockets` `scikit-learn` `Streamlit` | **Microstructure Screener:** Real-time intraday screener with Wilder's SMMA(20)/SMMA(120) mathematical crossover and Random Forest classifier. |
+| **[MNEMOX](https://github.com/chittranshsharma/research-agent)** | `Next.js` `FastAPI` `LangGraph` `Neo4j` | **Deep-Research Agent:** Autonomous graph-based research engine with Neo4j persistent memory and real-time streaming synthesis. |
+| **[SCOUT](https://github.com/chittranshsharma/scout-hackathon)** | `Next.js` `TypeScript` `Groq` `OpenRouter` | **Corporate Intelligence Engine:** Live automated company crawling, search, and synthesis compiling structured dossiers in seconds. |
+| **[AURA](https://github.com/chittranshsharma/AURA-Privacy-First-Smart-Wellness-Monitoring-System)** | `C++` `ESP32` `Raspberry Pi` `MQTT` | **Privacy-First IoT Safety Hub:** Camera-free elderly fall and environmental hazard detection using MPU6050 and telemetry edge nodes. |
+| **ROUTE RESILIENCE** | `PyTorch` `SegFormer` `NetworkX` `OSMnx` | **Geospatial Disaster Simulation:** Satellite road segmentation, graph construction, and dynamic topological rerouting. |
 
-A real-time NSE screening and signal engine combining live market feeds, Level-2 order-book analysis, feature engineering, Random Forest classification, trade simulation, and portfolio risk analytics.
+---
 
-```text
-BROKER FEED
-    ↓
-TICK / L2 DATA
-    ↓
-LIQUIDITY SCREEN
-    ↓
-ROLLING AGGREGATES
-    ↓
-FEATURE ENGINEERING
-    ↓
-RANDOM FOREST
-    ↓
-SIGNAL + CONFIDENCE
-    ↓
-TRADE SIMULATION
-    ↓
-RISK ANALYTICS
+## 🛠 Technical Matrix
+
+```
+Languages       Python (AsyncIO, CPython), C++, TypeScript, JavaScript, SQL, Bash
+AI & Deep ML    PyTorch, LangGraph, LangChain, Transformers, XLS-R, AASIST, SegFormer, scikit-learn
+Models & LLMs   Qwen2.5, LLaMA 3.x, Groq (LPU), Ollama, OpenAI, Gemini
+Backends & APIs FastAPI, Node.js, Express, WebSockets, REST, gRPC
+Databases       PostgreSQL, Supabase (pgvector), Neo4j (Cypher), SQLite, Redis, MongoDB
+Browser & ETL   Playwright, HTTPX, Beautiful Soup, n8n, Selenium
+Frontend & UI   Next.js (App Router), React 19, Tailwind CSS, Radix UI, Framer Motion
+Edge & IoT      ESP32, Raspberry Pi, MQTT, MPU6050, Serial Protocols
+DevOps & Cloud  Docker, Linux, AWS (VPC, S3, EC2), Azure, Railway, Vercel, CI/CD
+Math & Quant    NumPy, Pandas, SciPy, Wilder's Smoothing, Monte Carlo, Value-at-Risk (VaR)
 ```
 
-**Stack:** `Python` `WebSockets` `scikit-learn` `SQLite` `Streamlit`
+---
 
-**Technical Highlights**
+## 💼 Industry Impact & Experience
 
-* Wilder's **SMMA(20) / SMMA(120)**
-* Rolling **ETQ** aggregates
-* Top-5 order-book depth imbalance
-* Random Forest signal classification
-* 5-fold stratified cross-validation
-* Dynamic signal explanations
-* Cold-start heuristic fallback
-* Sharpe, Sortino, Max Drawdown, Profit Factor
-* Historical bootstrapping and trade simulation
-* Thread-safe live execution
-* Mock broker for offline development
-* PyTest coverage
-* PyInstaller packaging
+* **AI & Data Automation Intern · Brightrays** *(Jun 2026 – Aug 2026)*
+  * Built large-scale asynchronous scraping and data enrichment pipelines using Playwright, HTTPX, and local LLMs.
+  * Architected fault-tolerant retry architectures and deterministic extraction gates across hundreds of unstructured data portals.
+* **AI & Data Automation Intern · BML Munjal University** *(May 2026 – Present)*
+  * Automated institutional research pipelines, synthesizing global academic unstructured data into structured knowledge graphs.
+  * Designed AI-assisted validation, deduplication, and summarization pipelines for high-precision analytical reports.
 
 ---
 
-## ROUTE RESILIENCE
+## 📊 GitHub Analytics
 
-**Geospatial Disaster Simulation & Routing**
-
-A geospatial intelligence system combining satellite road extraction, graph construction, disaster simulation, and dynamic rerouting.
-
-```text
-SATELLITE / OSM DATA
-        ↓
-ROAD EXTRACTION
-        ↓
-GRAPH CONSTRUCTION
-        ↓
-GRAPH ANALYTICS
-        ↓
-DISASTER SIMULATION
-        ↓
-REROUTING
-        ↓
-MAP VISUALIZATION
-```
-
-**Stack:** `PyTorch` `SegFormer` `NetworkX` `OSMnx` `FastAPI` `MapLibre`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chittranshsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittranshsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+</div>
 
 ---
 
-## LYNX
-
-**Edge Telemetry & Geospatial Navigation**
-
-A real-time edge-to-application system combining embedded telemetry, mobile interfaces, geospatial data, and routing logic.
-
-**Stack:** `ESP32` `C++` `Flutter` `Dart` `MQTT` `GeoJSON`
-
----
-
-# Technical Stack
-
-### Languages
-
-`Python` `C++` `TypeScript` `JavaScript` `Dart` `SQL`
-
-### AI / ML
-
-`LangGraph` `LangChain` `LLMs` `RAG` `scikit-learn` `PyTorch` `SegFormer`
-
-### Backend
-
-`FastAPI` `Flask` `Node.js` `Express` `REST APIs` `WebSockets` `AsyncIO`
-
-### Frontend
-
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-### Data
-
-`PostgreSQL` `Supabase` `Neo4j` `SQLite` `MongoDB`
-
-### Automation
-
-`Playwright` `HTTPX` `n8n` `Browser Automation` `API Integrations`
-
-### Infrastructure
-
-`Docker` `Linux` `AWS` `Azure` `Vercel` `Railway`
-
-### Edge / Geospatial
-
-`ESP32` `MQTT` `NetworkX` `OSMnx` `OpenStreetMap` `MapLibre` `GeoJSON`
-
-### Tooling
-
-`Git` `GitHub` `PyTest` `PyInstaller`
-
----
-
-# Certifications & Achievements
-
-* **Neo4j Certified Professional** — 2025
-* **Microsoft Azure** — Computer Vision & REST API
-* **AWS** — Virtual Private Cloud (VPC)
-* **ISRO** — Remote Sensing
-* **ICT360 Design Championship** — Runner-Up
-
----
-
-# Open Source
-
-### Elite Coders Winter of Code · 2026
-
-**Contributor**
-
-Open-source collaboration, software development, and community contribution.
-
----
-
-# Portfolio
-
-### [chitt.co.in](https://chitt.co.in)
-
-My portfolio is itself an engineering project.
-
-* **SYSTEMS** — interactive architecture and technical deep-dives
-* **ASK / PORTFOLIO OS** — deterministic portfolio search and navigation
-* **PROJECTS** — selected engineering work
-
-<p align="center">
-  <a href="https://chitt.co.in"><strong>Explore the portfolio ↗</strong></a>
-</p>
-
----
-
-<p align="center">
-  <strong>Build systems. Ship them. Then build the next one.</strong>
-</p>
-
-<p align="center">
-  <a href="https://chitt.co.in">chitt.co.in</a>
-</p>
+<div align="center">
+  
+  **"Build systems with mathematical rigor. Ship them. Then build the next one."**
+  
+  [chitt.co.in](https://chitt.co.in) • [Explore Projects ↗](https://github.com/chittranshsharma?tab=repositories)
+  
+</div>
