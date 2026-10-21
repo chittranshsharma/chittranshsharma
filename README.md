@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Animated celestial banner introducing Chittransh Sharma" />
+  <img src="./assets/hero-v2.svg" width="100%" alt="Animated celestial banner introducing Chittransh Sharma" />
   <br /><br />
   <a href="https://chitt.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-CHITT.CO.IN-7C3AED?style=for-the-badge&labelColor=0B0B16" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/chittransh-sharma"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0891B2?style=for-the-badge&labelColor=0B0B16" alt="LinkedIn" /></a>
@@ -43,4 +43,5 @@ Built asynchronous Python research pipelines with Playwright, HTTPX, and local L
   <br />
   <a href="mailto:chittranshsharma150@gmail.com"><b>Have an ambitious problem? Let’s build.</b></a>
 </div>
+
 
