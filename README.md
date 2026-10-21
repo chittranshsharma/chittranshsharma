@@ -1,90 +1,71 @@
 <div align="center">
 
-# Chittransh Sharma
+<img src="./assets/hero.svg" width="100%" alt="Animated Chittransh Sharma banner with flowing violet and cyan light" />
 
-### Computer Science & Engineering Student · CTO at Sunniva AI
+<br />
 
-Building AI-powered products across backend systems, automation, and full-stack engineering.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Backend+Engineer+%E2%80%A2+Applied+AI+Engineer;Co-Founder+%26+Technical+Lead+%40+Sunniva+AI;I+build+systems+that+turn+ideas+into+reliable+products" alt="Animated introduction: Backend Engineer, Applied AI Engineer, and Co-Founder of Sunniva AI" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chitt.co.in-161B22?style=flat-square)](https://chitt.co.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chittransh-sharma)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:chittranshsharma150@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/chittranshsharma)
+<br /><br />
+
+<a href="https://chitt.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-chitt.co.in-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/chittransh-sharma"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-111827?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
+<a href="mailto:chittranshsharma150@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-111827?style=for-the-badge&logo=gmail&logoColor=F9A8D4" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
-## About
+## `01 / THE SIGNAL`
 
-I’m a Computer Science and Engineering student and CTO at Sunniva AI. I build AI-powered products across the full stack, pairing asynchronous services and data automation with responsive interfaces and real-time integrations. I care about measurable performance, reliable data flows, and thoughtful product details.
-
-## Experience
-
-### CTO · Sunniva AI
-
-`2026 - Present` · Remote
-
-- Build client-facing AI automation and web products across React/Next.js, TypeScript, APIs, authentication, PostgreSQL/Supabase, LLM services, CRM, messaging, and voice integrations.
-- Own end-to-end delivery across frontend, backend services, data flows, third-party integrations, deployment, and production handoff.
-
-### AI & Data Automation Intern · Brightrays
-
-`June 2026 - August 2026` · Noida, India
-
-- Built asynchronous Python research pipelines with Playwright, HTTPX, local LLM-assisted extraction, validation, deduplication, enrichment, logging, and retry/recovery.
-- Generated structured Excel and JSON outputs for long-running research workloads.
-
-### Research Automation Engineer · BML Munjal University
-
-`May 2026 - Present`
-
-- Built AI-assisted classification, validation, and synthesis pipelines for institutional research data.
-
-## Education
-
-**B.Tech in Computer Science & Engineering** · BML Munjal University  
-`2025 - 2029` · CGPA: **8.4/10**
-
-## Technology
-
-### AI & Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,dart,pytorch,sklearn&perline=7" alt="Language and machine learning technology icons" />
-</p>
-
-### Frontend & Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma,threejs&perline=6" alt="Frontend and design technology icons" />
-</p>
-
-### Backend & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,mongodb,redis&perline=7" alt="Backend and data technology icons" />
-</p>
-
-### Cloud & Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions,arduino,raspberrypi&perline=8" alt="Cloud and systems technology icons" />
-</p>
-
-## Certifications & Achievements
-
-- **Neo4j Certified Professional** · 2025
-- **Microsoft Azure** · Machine Learning Pipelines, Computer Vision, and REST APIs
-- **AWS** · Create a Virtual Private Cloud (VPC) · 2025
-- **ISRO** · Remote Sensing and Digital Image Analysis · 2025
-- **ICT360 Design Championship** · Runner-up · 2025
-- **Elite Coders Winter of Code** · Contributor · 2026
-
----
+I’m **Chittransh Sharma**, a backend and applied AI engineer based in **New Delhi, India**. I co-founded **Sunniva AI** and lead technical delivery for client automations and full-stack products. I like the hard parts: asynchronous pipelines, API integrations, data quality, deployment, and getting an AI workflow to behave reliably outside a demo.
 
 <div align="center">
-
-*Always learning, building, and making technology more useful.*
-
+  <img src="./assets/signal.svg" width="100%" alt="Animated violet and cyan signal line" />
 </div>
+
+## `02 / EXPERIENCE`
+
+| When | Role | What I did |
+| :-- | :-- | :-- |
+| **May 2026 → now** | **Co-Founder & Technical Lead** · Sunniva AI | Lead architecture and delivery for client AI automations and full-stack products. Build backend APIs and React/Next.js experiences; connect PostgreSQL/Supabase, LLM services, webhooks, CRM, WhatsApp, and voice systems; own deployment and client handoff. |
+| **Jun → Aug 2026** | **AI & Automation Engineer** · Brightrays | Built asynchronous Python research pipelines with Playwright, HTTPX, and local LLMs. Added validation, deduplication, enrichment, structured logging, retries, recovery, and reviewable Excel/JSON exports. |
+| **Dec 2025 → May 2026** | **AI & Automation Engineer** · BML Munjal University | Built an academic intelligence platform for faculty discovery, classification, and structured extraction across university sites, with asynchronous validation and export workflows. |
+
+<div align="center">
+  <img src="./assets/signal.svg" width="100%" alt="Animated violet and cyan signal line" />
+</div>
+
+## `03 / THE TOOLKIT`
+
+**Core languages**  
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `C++` · `Dart`
+
+**Backend & real-time systems**  
+`FastAPI` · `Node.js` · `Express` · `AsyncIO` · `REST APIs` · `WebSockets` · `WebRTC` · `SSE` · `SQLAlchemy` · `Alembic` · `Pydantic` · `HTTPX`
+
+**Applied AI**  
+`LangGraph` · `LangChain` · `Multi-agent systems` · `RAG` · `LLM orchestration` · `PyTorch` · `scikit-learn` · `Ollama` · `faster-whisper`
+
+**Data, infrastructure & quality**  
+`PostgreSQL` · `Supabase` · `Neo4j` · `MongoDB` · `SQLite` · `Docker` · `Linux` · `AWS` · `Azure` · `GitHub Actions` · `Playwright` · `Pytest` · `Vitest`
+
+**Product-facing UI**  
+`React` · `Next.js` · `Vite` · `Tailwind CSS`
+
+<div align="center">
+  <img src="./assets/signal.svg" width="100%" alt="Animated violet and cyan signal line" />
+</div>
+
+## `04 / THE HUMAN BIT`
+
+Computer Science & Engineering at **BML Munjal University** · **8.4/10 CGPA** · expected **2029**.
+
+I care about systems that are fast enough, observable enough, and useful enough to survive the first real user. If you’re building at the intersection of backend engineering and applied AI, let’s talk.
+
+<div align="center">
+  <a href="mailto:chittranshsharma150@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-↗-7C3AED?style=for-the-badge" alt="Email Chittransh to collaborate" /></a>
+  <br /><br />
+  <sub>Built with curiosity, caffeine, and an unreasonable affection for clean data flows.</sub>
+</div>
+
